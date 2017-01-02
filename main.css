@@ -1,0 +1,52 @@
+.header h1 {
+	font-family: Verdana;
+	font-style:normal;
+	text-align: center;
+	font-size: 38px;
+	background: #dddddd;
+	padding: 10px 5px 10px 5px;
+	border: 1px solid black;
+	margin-top:5px;
+	margin-bottom:5px;
+
+	
+}
+.header h3 {
+	font-family: Verdana, serif;
+	font-style:normal;
+	text-align: center;
+	font-size: 14px;
+	background: #ccdddd;
+	padding-top: 0;
+	border:1px solid red;
+	margin-top:5px;
+	margin-bottom:5px;
+
+}
+
+.header ul {
+	font-family: Verdana, serif;
+	font-size:20px;
+	list-style-type:none;
+}
+.header li{
+	display: inline-block;
+}
+
+.badge{
+	font-family: Verdana, serif;
+	font-style: normal;
+	text-align: center;
+	font-size: 14px;
+	background: #dddddd;
+	border:1px solid blue;
+
+
+}
+
+.container{
+	margin: 5px 100px;
+
+}
+
+.ryan { color: green; }
